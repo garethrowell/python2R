@@ -10,7 +10,7 @@ Enter RStudio Reticulate package...
 
 # Notes
 
-Installed R Studio; Installed R 4.0; Created an account on shiny.io. Installed shiny and ggplot packages. Implemented and published 
+Installed R Studio; Installed R 4.0; Created an account on shiny.io. Installed shiny and ggplot2 packages. Implemented and published 
 shiny "Getting started..." demo.
 
 # To do
