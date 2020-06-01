@@ -6,3 +6,15 @@ But, R shiny app web services are widely available and, in some instances, its t
 How far can you go with Python ML deployed to Shiny Apps?
 
 Enter RStudio Reticulate package...
+
+
+# Notes
+
+Installed R Studio; Installed R 4.0; Created an account on shiny.io. Installed shiny and ggplot packages. Implemented and published 
+shiny "Getting started..." demo.
+
+# To do
+
+Install R reticulate package and try out something very simple in Python.
+
+
