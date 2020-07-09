@@ -1,9 +1,11 @@
 # python2R
 This is a place to study Python-R interoperability. Projects here will employ the R Reticulate is the interoperability package
 
-# Project 1:  Use the NPS I&M Environmental Settings Toolkit in R to obtain ACIS climate data and pass the data to a Pandas dataframe.
+# Project 1: Automating ACIS data acquisition in R and sharing it with Python
 
-# Project 2: Display the data in Matplotlib and Seaborn, then visuaize the data again using R tools in Shiny
+ Use the NPS I&M Environmental Settings Toolkit in R to obtain ACIS climate data and pass the data to a Pandas dataframe.
+
+# Project 2: Conducting EDAs in Python and sharing it with R Shiny
 
 These two projects will serve as "proof-of-concept" that ACIS climate data aquisition can be automated in R and shared into the Python environment where it becomes available for ML modeling. From there, it can be passed to Shiny for end-user metrics.
 
