@@ -5,7 +5,7 @@ This is a place to study Python-R interoperability. Projects here will employ th
 
  Use the NPS I&M Environmental Settings Toolkit in R to obtain ACIS climate data and pass the data to a Pandas dataframe.
 
-# Project 2: Conducting EDAs in Python and sharing it with R Shiny
+# Project 2: Conducting EDAs in Python and reporting to R Shiny
 
 These two projects will serve as "proof-of-concept" that ACIS climate data aquisition can be automated in R and shared into the Python environment where it becomes available for ML modeling. From there, it can be passed to Shiny for end-user metrics.
 
