@@ -1,7 +1,11 @@
 # python2R
 This is a place to study Python-R interoperability.The idea here is to take advantage of some existing R tools and use them from Python. The whole process is broken down into a series of projects.
 
-# Project 1: Manually loading some climate data into a dataframe in R and passing it to a dataframe in Pandas
+# Project 1: Passing data from R dataframe to Pandas dataframe
+
+Why this project: Natural resource and ecological scientists commonly work in R. They are already pulling climate data through existing data APIs. As proof-of-concept for R to Python interoperability, this project takes "real-world" climate data from a dataframe in R and passes it to a dataframe in Pandas.
+
+What does this project do: Loads ACIS .csv climate data into an R dataframe and pushes it to a Pandas dataframe.
 
 
 # Project 2: Use the NPS Environmental Settings ToolkingR Toolkit to acquire ACIS climate data
@@ -20,6 +24,6 @@ This is a separate repo.
 
 # Notes
 
-Install R reticulate package and try out something very simple in Python.
+Install R reticulate package and try to move data from R to Python.
 
 
