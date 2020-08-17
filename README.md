@@ -2,6 +2,8 @@
 This is a place to study Python-R interoperability. The idea here is to take advantage of some existing R tools and use them from Python. 
 The whole process is broken down into a series of projects.
 
+#-----------------------------
+
 Project 1: Passing data from R dataframe to Pandas dataframe
 
 WHY this project: Natural resource and ecological scientists commonly work in R. They are already pulling climate data through existing R data APIs. 
