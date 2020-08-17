@@ -7,7 +7,7 @@ Project 1: Passing data from R dataframe to Pandas dataframe
 WHY this project: Natural resource and ecological scientists commonly work in R. They are already pulling climate data through existing R data APIs. 
 As proof-of-concept for R to Python interoperability, this project takes "real-world" climate data from a dataframe in R and passes it to a dataframe in Pandas.
 
-WHAT this project does: Loads ACIS .csv climate data into an R dataframe and pushes it to a Pandas dataframe.
+WHAT this project does: Loads US National Weather Service ACIS .csv climate data into an R dataframe and pushes it to a Pandas dataframe.
 
 
 Project 2: Use the NPS Environmental Settings ToolkingR Toolkit to acquire ACIS climate data
